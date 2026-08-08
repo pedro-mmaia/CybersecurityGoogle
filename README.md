@@ -7,7 +7,7 @@ Este repositório contém o relatório de investigação de um incidente de segu
 ## 📊 Arquivos e Recursos do Projeto
 
 ### 📄 Relatório Final
-* 📥 [Acessar Relatório Completo de Análise de Tráfego e Logs (PDF)]
+* 📥 [Acessar Relatório Completo de Análise de Tráfego e Logs (PDF)](./reports/Cybersecurity-incident-report.pdf)
 
 
 ### 📂 Base de Dados Utilizada na Análise
