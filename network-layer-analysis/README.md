@@ -1,6 +1,6 @@
 # network-layer-analysis
 
-Este repositório contém a análise prática de comunicação na camada de rede.
+Este pasta contém a análise prática de comunicação na camada de rede.
 
 # 📊 Análise de Comunicação
 
