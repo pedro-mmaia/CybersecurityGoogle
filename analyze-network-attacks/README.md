@@ -1,6 +1,6 @@
 # 🛡️ Análise de Logs de Segurança de Rede e Resposta a Incidentes
 
-Este repositório contém o relatório de investigação de um incidente de segurança e a base de dados em planilha utilizada para a triagem e análise dos eventos de log.
+Este pasta contém o relatório de investigação de um incidente de segurança e a base de dados em planilha utilizada para a triagem e análise dos eventos de log.
 
 ---
 
